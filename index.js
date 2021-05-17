@@ -34,7 +34,7 @@ var con = mysql.createConnection({
   host: "localhost",
   user: "root",
   database: "posts",
-  password: ""
+  password: "Sulu@ammu1"
 });
 
 con.connect(function(err) {
